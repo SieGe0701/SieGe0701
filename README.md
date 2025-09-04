@@ -14,7 +14,7 @@
 
 ## 🌍 Connect With Me  
 - 💬 Discord: `siege0063`  
-- 🌐 Portfolio: [My Site]([https://portfolio-siege0701.vercel.app/])  
+- 🌐 Portfolio: [https://portfolio-siege0701.vercel.app/]
 
 ---
 
