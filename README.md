@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Srinivas  
 
-![Most Used Languages](https://github.com/SieGe0701/SieGe0701/blob/main/github-metrics.svg)
+![Most Used Languages](![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SieGe@0701&layout=compact&theme=radical&exclude_langs=Jupyter%20Notebook)
+)
 
 ---
 
