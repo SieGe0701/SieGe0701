@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Srinivas  
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SieGe0701&layout=compact&theme=radical&exclude_langs=Jupyter%20Notebook)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cmake,c%2B%2B,jupyter+notebook,mdsvex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
