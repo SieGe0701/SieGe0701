@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Srinivas  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cmake,c%2B%2B,jupyter+notebook,mdsvex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SieGe0701&theme=dracula&layout=compact&hide=cmake,c%2B%2B,jupyter+notebook,mdsvex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
