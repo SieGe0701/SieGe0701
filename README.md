@@ -6,8 +6,8 @@
 ---
 
 ## 💻 About Me  
-- 🤖 Interested in **Machine Learning, LLMs, and Language Development**  
-- 🌱 Learning **Advanced Data Science**  
+- 🤖 Interested in **Machine Learning, LLMs, and AI Development**  
+- 🌱 Learning **Postman Testing**  
 - 🚀 Exploring **Cloud, OpenShift, and MLOps**  
 
 ---
